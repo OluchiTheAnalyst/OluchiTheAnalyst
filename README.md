@@ -1,4 +1,4 @@
-#  Hi there👋, I’m Oluchi🎀
+#  Hey👋, I’m Oluchi🎀
 - 👀 I’m a Data analyst who is very interested in Datascience, Robotics and AI.
 - 👩‍💻 I’m currently learning Django and Machine Learning.
 - 🤔 I'm looking for help with landing a Data analytics role.
