@@ -27,10 +27,9 @@
 ---
 
 ### 📈 Stats
-<p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OluchiTheAnalyst&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OluchiTheAnalyst&layout=compact&theme=tokyonight)
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OluchiTheAnalyst&show_icons=true&theme=rose_pine&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OluchiTheAnalyst&layout=compact&theme=rose_pine)
 
 
 
