@@ -27,16 +27,11 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OluchiTheAnalyst&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OluchiTheAnalyst&layout=compact&theme=tokyonight)
-
----
-
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=OluchiTheAnalyst&theme=tokyonight&hide_border=true)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OluchiTheAnalyst&show_icons=true&theme=rose_pine&hide_title=true&count_private=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OluchiTheAnalyst&layout=compact&theme=rose_pine&hide_title=true" />
+</p>
 
 
 <!---
