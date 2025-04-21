@@ -26,16 +26,13 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OluchiTheAnalyst&show_icons=true&theme=rose_pine&hide_title=true&count_private=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OluchiTheAnalyst&layout=compact&theme=rose_pine&hide_title=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OluchiTheAnalyst&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OluchiTheAnalyst&layout=compact&theme=tokyonight)
 </p>
 
-### 👀 Visitors
 
-![Visitors](https://komarev.com/ghpvc/?username=OluchiTheAnalyst&label=Profile%20views&color=0e75b6&style=flat)
 
 
 <!---
