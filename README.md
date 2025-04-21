@@ -9,7 +9,7 @@
 - 💬 Ask me about **Data Analysis**, **Python**, **SQL**, or **Open Source Contributions**
 - 📫 Here's how to reach me- 📫 [Twitter: @The_OnlyLulu](https://twitter.com/The_OnlyLulu) [LinkedIn: Ndukauba Oluchi](https://www.linkedin.com/in/ndukauba-oluchi)
 - 😄 Pronouns: She/her
-- 🤖 I taught myself Python because i want to be a data scientist.
+- 🤖 I taught myself Python because I want to be a data scientist.
   
   ---
 
