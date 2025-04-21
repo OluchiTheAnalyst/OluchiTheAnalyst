@@ -25,13 +25,6 @@
 
 ---
 
-### 📈 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OluchiTheAnalyst&show_icons=true&theme=omni&count_private=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OluchiTheAnalyst&layout=compact&theme=omni" />
-</p>
-
 
 <!---
 OluchiTheAnalyst/OluchiTheAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
