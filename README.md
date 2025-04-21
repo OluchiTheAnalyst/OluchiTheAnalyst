@@ -7,7 +7,7 @@
 - 🎓 NYSC completed | B.Sc in Applied Biochemistry | Data Analytics Diploma
 - 🧠 Goal: Transition into full-fledged **Data Science & ML Engineering**
 - 💬 Ask me about **Data Analysis**, **Python**, **SQL**, or **Open Source Contributions**
-- 📫 Here's how to reach me- [Email me](ndukauba.oluchi2000@gmail.com)
+- 📫 Here's how to reach me- [Email me](mailto:ndukauba.oluchi2000@gmail.com)
 - 😄 Pronouns: She/her
 - 🤖 I taught myself Python because i want to be a data scientist.
   
