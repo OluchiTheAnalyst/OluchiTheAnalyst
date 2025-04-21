@@ -27,11 +27,11 @@
 ---
 
 ### 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OluchiTheAnalyst&show_icons=true&theme=rose_pine&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OluchiTheAnalyst&layout=compact&theme=rose_pine)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OluchiTheAnalyst&show_icons=true&theme=omni&count_private=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OluchiTheAnalyst&layout=compact&theme=omni" />
+</p>
 
 
 <!---
