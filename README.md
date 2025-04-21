@@ -1,5 +1,4 @@
  <h1 align="center">Hey👋, I’m Oluchi🎀</h1>
- ---
 
 ### 👩‍💻 About Me
 - 👀 I’m a Data analyst who is very interested in Datascience, Robotics and AI.
@@ -37,11 +36,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=OluchiTheAnalyst&theme=tokyonight&hide_border=true)
 
----
 
-### 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=OluchiTheAnalyst&theme=onestar&margin-w=15&margin-h=15)
 
 
 <!---
