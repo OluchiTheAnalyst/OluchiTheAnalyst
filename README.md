@@ -33,6 +33,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OluchiTheAnalyst&layout=compact&theme=rose_pine&hide_title=true" />
 </p>
 
+### 👀 Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=OluchiTheAnalyst&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <!---
 OluchiTheAnalyst/OluchiTheAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
