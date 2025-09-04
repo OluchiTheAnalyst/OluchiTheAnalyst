@@ -2,6 +2,7 @@
 
 ### 👩‍💻 About Me
 - 👀 I’m a Data analyst who is very interested in Datascience, Robotics and AI.
+- 🎀 I like to keep things simple, but I am very committed to excellence
 - 👩‍💻 I’m currently learning **Data Science and Machine Learning**
 - 🌱 Learning and contributing to open source communities like **BugSigDB**, **Nix**.
 - 🎓 NYSC completed | B.Sc in Applied Biochemistry | Data Analytics Diploma
