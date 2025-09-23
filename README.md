@@ -1,4 +1,4 @@
- <h1 align="center">Hey👋, I’m Oluchi🫧🎀</h1>
+ <h1 align="center">Hey👋, I’m Oluchi🎀</h1>
 
 ### 👩‍💻 About Me
 - 👀 I’m a Data analyst who is very interested in Datascience, Robotics and AI.
