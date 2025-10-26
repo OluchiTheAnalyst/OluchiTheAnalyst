@@ -7,10 +7,10 @@
 - 🌱 Learning and contributing to open source communities like **BugSigDB**, **Nix**.
 - 🎓 NYSC completed | B.Sc in Applied Biochemistry | Data Analytics Diploma
 - 🧠 Goal: Transition into full-fledged **Data Science & ML Engineering**
-- 💬 Ask me about **Data Analysis**, **Python**, **SQL**, or **Open Source Contributions**
+- 💬 Ask me about **Data Analysis**, **Python**, or **Open Source Contributions**
 - 📫 Here's how to reach me- 📫 [Twitter: @The_OnlyLulu](https://twitter.com/The_OnlyLulu) [LinkedIn: Ndukauba Oluchi](https://www.linkedin.com/in/ndukauba-oluchi)
 - 😄 Pronouns: She/her
-- 🤖 I taught myself Python because I want to be a data scientist.
+- 🤖 I taught myself Python because I want to be an ML Engineer.
   
   ---
 
