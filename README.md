@@ -1,7 +1,7 @@
  <h1 align="center">Hey👋, I’m Oluchi🎀</h1>
 
 ### 👩‍💻 About Me
-- 👀 I’m a Data analyst who is very interested in Data and AI.
+- 👀 I’m very interested in Data and AI.
 - 🎀 I like to keep things simple, but I am very committed to excellence
 - 🌱 Learning and contributing to open source communities like **BugSigDB**, **Nix**.
 - 🎓 B.Sc in Applied Biochemistry | Data Analytics Diploma
