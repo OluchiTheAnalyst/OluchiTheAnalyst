@@ -1,12 +1,11 @@
  <h1 align="center">Hey👋, I’m Oluchi🎀</h1>
 
 ### 👩‍💻 About Me
-- 👀 I’m a Data analyst who is very interested in Datascience, Robotics and AI.
+- 👀 I’m a Data analyst who is very interested in Data and AI.
 - 🎀 I like to keep things simple, but I am very committed to excellence
-- 👩‍💻 I’m currently learning **Data Science and Machine Learning**
 - 🌱 Learning and contributing to open source communities like **BugSigDB**, **Nix**.
 - 🎓 B.Sc in Applied Biochemistry | Data Analytics Diploma
-- 🧠 Goal: Transition into full-fledged **Data Science & ML Engineering**
+- 🧠 Goal: Transition into full-fledged **AI/ML Engineer**
 - 💬 Ask me about **Data Analysis**, **Python**, or **Open Source Contributions**
 - 📫 Here's how to reach me- 📫 [Twitter: @The_OnlyLulu](https://twitter.com/The_OnlyLulu) [LinkedIn: Ndukauba Oluchi](https://www.linkedin.com/in/ndukauba-oluchi)
 - 😄 Pronouns: She/her
